@@ -3,7 +3,7 @@
 ## **book search engine**<br>
 <br>
 
-[https://guarded-earth-69443.herokuapp.com/](https://guarded-earth-69443.herokuapp.com/)<br>
+[https://fathomless-depths-63624.herokuapp.com/](https://fathomless-depths-63624.herokuapp.com/)<br>
 <br>
 
 ## description
@@ -107,17 +107,5 @@ These notes and links are listing some valuable references among others that I u
 
 [https://dmitripavlutin.com/javascript-and-or-logical-operators/](https://dmitripavlutin.com/javascript-and-or-logical-operators/)
 
-<br>
-<br>
-
-
-
-## badges
-
-***
-
-![GitHub all releases](https://img.shields.io/github/downloads/AranATA/tech-blog/total)
-
-![GitHub language count](https://img.shields.io/github/languages/count/AranATA/tech-blog)
 <br>
 <br>
